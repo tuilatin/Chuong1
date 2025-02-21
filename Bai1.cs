@@ -10,6 +10,7 @@ namespace Chuong1
     {
         public static void Run()
         {
+            //Commit lan 2
             int i_144, n_144, sum_144 = 0;
             Console.Write("Nhap n: ");
             n_144 = Convert.ToInt32(Console.ReadLine());
