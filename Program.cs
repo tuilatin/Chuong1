@@ -1,10 +1,3 @@
-<<<<<<< Updated upstream
-=======
-﻿
-using System;
->>>>>>> Stashed changes
-using System.Runtime.Intrinsics.X86;
->>>>>>> Stashed changes
 namespace Chuong1
 {
     class Program
