@@ -1,6 +1,16 @@
+<<<<<<< Updated upstream
 ﻿
 using System;
 using System.Runtime.Intrinsics.X86;
+=======
+<<<<<<< Updated upstream
+﻿using System.Runtime.Intrinsics.X86;
+=======
+﻿
+using System;
+using System.Runtime.Intrinsics.X86;
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
 namespace Chuong1
 {
     class Program
