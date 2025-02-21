@@ -1,14 +1,4 @@
-<<<<<<< Updated upstream
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-=======
-<<<<<<< Updated upstream
-=======
-﻿
-using System;
->>>>>>> Stashed changes
-using System.Runtime.Intrinsics.X86;
->>>>>>> Stashed changes
+
 namespace Chuong1
 {
     class Program
@@ -84,4 +74,4 @@ namespace Chuong1
         }
     }
 }
->>>>>>> Stashed changes
+
